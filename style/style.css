@@ -392,7 +392,7 @@ header nav {
 }
 
 .home-root {
-  background-image: url("/assets/images/home-page-layout.svg");
+  background-image: url("../assets/images/home-page-layout.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -456,7 +456,7 @@ header nav {
 }
 
 .about-me-root {
-  background-image: url("/assets/images/aboutme-page-layout.svg");
+  background-image: url("../assets/images/aboutme-page-layout.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -628,7 +628,7 @@ header nav {
 }
 
 .work-root {
-  background-image: url("/assets/images/work-page-layout.svg");
+  background-image: url("../assets/images/work-page-layout.svg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
