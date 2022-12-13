@@ -1,0 +1,32 @@
+$primary : #4C1D73 !default;
+$secondary : #673296 !default;
+$tertiary : #9C65E1 !default;
+$light : #FAFAFA !default;
+$dark : #00000c;
+
+body{
+    
+    color: $light;
+}
+
+.home-root{
+    background-color: $primary;
+}
+.about-me-root{
+    background-color: $light;
+    color: $tertiary;
+    .navbar a{
+        color: $tertiary;
+    }
+}
+.work-root{
+    background-color: $light;
+    color: $secondary;
+    .navbar a{
+        color: $secondary;
+    }
+}
+
+a{
+    color: $light;
+}
